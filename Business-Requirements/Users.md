@@ -1,6 +1,6 @@
 ## All Users
 
-Every user must be registered to use the system.
+Every user must be registered to use the system. If a user is assigned to a project she must be able to add her current estimation for the remaining tasks.
 
 ## Administrators
 
